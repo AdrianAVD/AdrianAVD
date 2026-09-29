@@ -19,9 +19,9 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&theme=github_dark&include_all_commits=true" height="165">
+<img src="https://github-readme-stats.vercel.app/api?username=AdrianAVD&show_icons=true&hide_border=true&theme=github_dark&include_all_commits=true" height="165">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=github-dark-blue&hide_border=true" height="165">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=AdrianAVD&theme=github-dark-blue&hide_border=true" height="165">
 
 </div>
 
